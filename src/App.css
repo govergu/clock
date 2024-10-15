@@ -1,0 +1,23 @@
+.content{
+  flex-direction: column;
+  height: 100vh;
+}
+h1{
+  font-size: 60px;
+}
+
+.currenttime{
+  align-items: baseline;
+  gap: 8px;
+}
+
+.time{
+  height: 56px;
+  width: 40px;
+  color: white;
+  font-size: 24px;
+}
+
+.amPm{
+  font-size: 12px;
+}
